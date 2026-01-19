@@ -1,0 +1,3 @@
+HELLO
+This is an initial ReadME for my SEPM Practicals
+
